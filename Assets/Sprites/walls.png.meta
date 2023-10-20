@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,10 +110,10 @@ TextureImporter:
       name: walls_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 256
-        width: 16
-        height: 128
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66add1d46d77b00408a175befed92dc0
-      internalID: 201076695
+      spriteID: 28cce0ccefc0460489a28d656395be39
+      internalID: 1546351146
       vertices: []
       indices: 
       edges: []
@@ -131,10 +131,10 @@ TextureImporter:
       name: walls_1
       rect:
         serializedVersion: 2
-        x: 184
-        y: 256
-        width: 16
-        height: 128
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da4001b43f39568469e5c385c4943d5c
-      internalID: 259399640
+      spriteID: 3a7b1e80cadd2c94982db060f0e0da06
+      internalID: -1498877663
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: walls_2
       rect:
         serializedVersion: 2
-        x: 312
-        y: 256
-        width: 72
-        height: 72
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adbb929494a3b4648bdc0635458c9fbb
-      internalID: 787855279
+      spriteID: 9cc435acf85165842b9b1db001be186e
+      internalID: 685703760
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: walls_3
       rect:
         serializedVersion: 2
-        x: 56
-        y: 128
-        width: 72
-        height: 72
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fdf9103f173a514b866aac3041da98a
-      internalID: 691414500
+      spriteID: 91d007fb5b701a241be45cad84572310
+      internalID: 1893701061
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       name: walls_4
       rect:
         serializedVersion: 2
-        x: 184
+        x: 0
         y: 0
-        width: 72
-        height: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4e4647fd9062b042871aa226995d1f8
-      internalID: -873659742
+      spriteID: e5774b973157cfe489baa29c0f4de206
+      internalID: -898003131
       vertices: []
       indices: 
       edges: []
@@ -222,11 +222,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      walls_0: 201076695
-      walls_1: 259399640
-      walls_2: 787855279
-      walls_3: 691414500
-      walls_4: -873659742
+      walls_0: 1546351146
+      walls_1: -1498877663
+      walls_2: 685703760
+      walls_3: 1893701061
+      walls_4: -898003131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

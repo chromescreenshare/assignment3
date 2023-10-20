@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,10 +110,10 @@ TextureImporter:
       name: cat (cream)_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 408
-        width: 64
-        height: 96
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8423f27bad24a3d40b4cc23858484cde
-      internalID: -1672861513
+      spriteID: 37bddcfdfce4ad543b07585939486b50
+      internalID: 1615119260
       vertices: []
       indices: 
       edges: []
@@ -131,10 +131,10 @@ TextureImporter:
       name: cat (cream)_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 404
-        width: 64
-        height: 88
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f415af20c1739eb4d8902dc6bc6fcb13
-      internalID: -1221904563
+      spriteID: 67c81f82174d1814ba5cc39f2fa9ea10
+      internalID: -1186452038
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: cat (cream)_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 404
-        width: 72
-        height: 88
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c194fcdfb5b12884d9c3e5cdae8ac33d
-      internalID: 788200244
+      spriteID: 56ae705c86f84f7408467ff158861047
+      internalID: 359385780
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: cat (cream)_3
       rect:
         serializedVersion: 2
-        x: 8
-        y: 280
-        width: 64
-        height: 96
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2a779b0ee34d894883b6a4596d04c85
-      internalID: 547338451
+      spriteID: 31e1ff4247d2d8d4b9c7c377588912bf
+      internalID: 1264677769
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       name: cat (cream)_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 276
-        width: 64
-        height: 96
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35af0c0acfdf4794baeb323240b6bb1b
-      internalID: -1072136816
+      spriteID: 68a0d9402106aec41894827ad9789135
+      internalID: 988769492
       vertices: []
       indices: 
       edges: []
@@ -215,10 +215,10 @@ TextureImporter:
       name: cat (cream)_5
       rect:
         serializedVersion: 2
-        x: 264
-        y: 272
-        width: 64
-        height: 96
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e07c07092ef510d47bdfe63528db5c5e
-      internalID: -389558955
+      spriteID: 3bc512fc7091de447bdd7f760efd8635
+      internalID: 1602697179
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
       name: cat (cream)_6
       rect:
         serializedVersion: 2
-        x: 12
-        y: 136
-        width: 76
-        height: 84
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 679b655f61aea4d4b99dd7c264c01773
-      internalID: -1998498319
+      spriteID: de4508f58f35fa149a29f143bf206c3e
+      internalID: -49718145
       vertices: []
       indices: 
       edges: []
@@ -257,10 +257,10 @@ TextureImporter:
       name: cat (cream)_7
       rect:
         serializedVersion: 2
-        x: 140
-        y: 136
-        width: 76
-        height: 88
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71a2b1258a0fcc54b938d7742d780821
-      internalID: 547986654
+      spriteID: 52e24f98d7f364b4b9a0a33e23f647b6
+      internalID: 407876409
       vertices: []
       indices: 
       edges: []
@@ -278,10 +278,10 @@ TextureImporter:
       name: cat (cream)_8
       rect:
         serializedVersion: 2
-        x: 264
-        y: 136
-        width: 84
-        height: 88
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc047939b9004c84d8ce402387d8db80
-      internalID: 1905492579
+      spriteID: 3537a89d66def774380c241f8ddf3a45
+      internalID: 1415941854
       vertices: []
       indices: 
       edges: []
@@ -299,10 +299,10 @@ TextureImporter:
       name: cat (cream)_9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 8
-        width: 80
-        height: 84
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +310,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ea72835199621e428ff6861a653cc95
-      internalID: 847833817
+      spriteID: c75aaaf08e106c141944563847c57526
+      internalID: 2021892085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (cream)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6288de09d5a742b7224da55b2124a
+      internalID: 1573898180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (cream)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948be7619228f574ca6531de1cfa0785
+      internalID: -324220415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (cream)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342432c68ba5a694c9a3217ec489ea3a
+      internalID: 1188229455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (cream)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbec67f5c68a82b4baf7de2ced879717
+      internalID: -2123182831
       vertices: []
       indices: 
       edges: []
@@ -327,16 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat (cream)_0: -1672861513
-      cat (cream)_1: -1221904563
-      cat (cream)_2: 788200244
-      cat (cream)_3: 547338451
-      cat (cream)_4: -1072136816
-      cat (cream)_5: -389558955
-      cat (cream)_6: -1998498319
-      cat (cream)_7: 547986654
-      cat (cream)_8: 1905492579
-      cat (cream)_9: 847833817
+      cat (cream)_0: 1615119260
+      cat (cream)_1: -1186452038
+      cat (cream)_10: 1573898180
+      cat (cream)_11: -324220415
+      cat (cream)_12: 1188229455
+      cat (cream)_13: -2123182831
+      cat (cream)_2: 359385780
+      cat (cream)_3: 1264677769
+      cat (cream)_4: 988769492
+      cat (cream)_5: 1602697179
+      cat (cream)_6: -49718145
+      cat (cream)_7: 407876409
+      cat (cream)_8: 1415941854
+      cat (cream)_9: 2021892085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

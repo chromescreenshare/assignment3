@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 349bd7a6d9fc35e4180792b9d5d30b36
+guid: 5fc7d5fea3e603a4da0f66f4a4e4c7bf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,13 +107,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rabbit (calm)_0
+      name: cat (brown)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0829ab1ec41e444caface21a594a960
+      internalID: -1780277647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (brown)_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 400
-        width: 64
-        height: 100
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88ed709f1549a8d42b85fa36479796cc
-      internalID: -720176737
+      spriteID: 695c6b563e8edc247968ef35494c8a51
+      internalID: -1121196958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_1
+      name: cat (brown)_2
       rect:
         serializedVersion: 2
-        x: 160
-        y: 400
-        width: 64
-        height: 96
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abbdd6212ff9494c82a19222bc6d3b4
-      internalID: 933163511
+      spriteID: ff3ded34699d7524d8a740a002d5ed2b
+      internalID: 1168490396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_2
+      name: cat (brown)_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 400
-        width: 64
-        height: 92
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +184,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c252592a36335e4090469cd29075d11
-      internalID: -1270113525
+      spriteID: d9a5239f1ddbae84788cd358ec5f45e6
+      internalID: 1005710989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_3
+      name: cat (brown)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89480a5c51edb594da4bba2f636834cf
+      internalID: -648942430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (brown)_5
       rect:
         serializedVersion: 2
         x: 32
-        y: 272
-        width: 64
-        height: 100
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 378ee74a9dffc9b43882d9debad61461
-      internalID: 740697114
+      spriteID: 2c8bb2c62c0b5be489970891222e7a58
+      internalID: 2071857666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_4
+      name: cat (brown)_6
       rect:
         serializedVersion: 2
-        x: 160
-        y: 268
-        width: 64
-        height: 100
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24fe1dc4fbad2434d9a4cbb0915b9186
-      internalID: -1591736683
+      spriteID: 0111dba95430e44458323f615de2699b
+      internalID: -1540563631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_5
+      name: cat (brown)_7
       rect:
         serializedVersion: 2
-        x: 288
-        y: 264
-        width: 64
-        height: 100
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ade74809aa624b4ba9d5808785ce875
-      internalID: -1637437152
+      spriteID: 631cd8ae474bd0a47a2982d2af722c7e
+      internalID: 1048306139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_6
+      name: cat (brown)_8
       rect:
         serializedVersion: 2
-        x: 28
-        y: 152
-        width: 76
-        height: 92
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8348b696e2daba7438ec4b8a7dd63ef7
-      internalID: -1659262066
+      spriteID: b5b3c232d95f8674a8737e9567197fa2
+      internalID: 1205210278
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_7
+      name: cat (brown)_9
       rect:
         serializedVersion: 2
-        x: 156
-        y: 152
-        width: 76
-        height: 96
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d02a2d44882243c40846af6f691e6c0b
-      internalID: 1791705951
+      spriteID: 2f2269e30f507b54f8449233de875aa5
+      internalID: 1327526068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_8
+      name: cat (brown)_10
       rect:
         serializedVersion: 2
-        x: 284
-        y: 152
-        width: 80
-        height: 96
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7aa3fb0fb0c2d91419316d5853090f1d
-      internalID: -1045201768
+      spriteID: 2e99e92b62f2d7d47ba46c2863d78e85
+      internalID: 1437332713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (calm)_9
+      name: cat (brown)_11
       rect:
         serializedVersion: 2
-        x: 28
-        y: 24
-        width: 80
-        height: 92
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +352,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35a45ec2f9d046d41816006ebf98dcad
-      internalID: 2052554126
+      spriteID: c9a58f85673e7b643a555dc5cbb8e3fd
+      internalID: 113804673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (brown)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d785f9b47cfda4eb036bd98ff09a5e
+      internalID: -373968093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (brown)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88792bc83983bd4cbeadf04d0edfe2a
+      internalID: -100888177
       vertices: []
       indices: 
       edges: []
@@ -327,16 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      rabbit (calm)_0: -720176737
-      rabbit (calm)_1: 933163511
-      rabbit (calm)_2: -1270113525
-      rabbit (calm)_3: 740697114
-      rabbit (calm)_4: -1591736683
-      rabbit (calm)_5: -1637437152
-      rabbit (calm)_6: -1659262066
-      rabbit (calm)_7: 1791705951
-      rabbit (calm)_8: -1045201768
-      rabbit (calm)_9: 2052554126
+      cat (brown)_0: -1780277647
+      cat (brown)_1: -1121196958
+      cat (brown)_10: 1437332713
+      cat (brown)_11: 113804673
+      cat (brown)_12: -373968093
+      cat (brown)_13: -100888177
+      cat (brown)_2: 1168490396
+      cat (brown)_3: 1005710989
+      cat (brown)_4: -648942430
+      cat (brown)_5: 2071857666
+      cat (brown)_6: -1540563631
+      cat (brown)_7: 1048306139
+      cat (brown)_8: 1205210278
+      cat (brown)_9: 1327526068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

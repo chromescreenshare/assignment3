@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5e399fdf30ae4e84380ba4c34e3392e1
+guid: 0d2f8ae1fd27d7e4c85ef50900afc359
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat (black)_0
+      name: rabbit_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 408
-        width: 64
-        height: 96
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 786816f9080e47f498b4dee3c9f5d9b3
-      internalID: 1705972866
+      spriteID: 9cdc7aef80f4c8a4fbb5acb49f3cbb20
+      internalID: 1928379287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_1
+      name: rabbit_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 404
-        width: 64
-        height: 88
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e3a048447f1319458da5914c2999428
-      internalID: -1695971486
+      spriteID: 3e66daefd93687b41a10c27e2259f95d
+      internalID: -47438475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_2
+      name: rabbit_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 404
-        width: 72
-        height: 88
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38d2c734064b0c34bb4a4a2d88e0b460
-      internalID: -924085080
+      spriteID: d56591b9599403048890d9216d52657e
+      internalID: -1474836110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_3
+      name: rabbit_3
       rect:
         serializedVersion: 2
-        x: 8
-        y: 280
-        width: 64
-        height: 96
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95a7e5fa9f706cd46a88125b5e5c8572
-      internalID: 1670187143
+      spriteID: 34e3ba16398ce29488a3d1aac156cd9f
+      internalID: 440514656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_4
+      name: rabbit_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 276
-        width: 64
-        height: 96
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 270e08f779e312e4dad1b18022dc6df6
-      internalID: -665589338
+      spriteID: 0be6d0b83665f1c43928becf2d2fa98c
+      internalID: -1612805434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_5
+      name: rabbit_5
       rect:
         serializedVersion: 2
-        x: 264
-        y: 272
-        width: 64
-        height: 96
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff84f94f73fce046acbf0e705ae6ccb
-      internalID: 1149464226
+      spriteID: 62b211a89b644054eb6917a595dfe3ce
+      internalID: 15109000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_6
+      name: rabbit_6
       rect:
         serializedVersion: 2
-        x: 12
-        y: 136
-        width: 76
-        height: 84
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2824171fa0011a44bb68724b3d9495d
-      internalID: -1990972813
+      spriteID: 26c52e67e19e92c4694d01f62022e359
+      internalID: 353127448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_7
+      name: rabbit_7
       rect:
         serializedVersion: 2
-        x: 140
-        y: 136
-        width: 76
-        height: 88
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a10ab31099fd5d94e9d10205256b19e4
-      internalID: -1427495985
+      spriteID: 51e2dd69c9b95e8498644cce31fe509f
+      internalID: -1717733325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_8
+      name: rabbit_8
       rect:
         serializedVersion: 2
-        x: 264
-        y: 136
-        width: 84
-        height: 88
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d11d6802e95ffb84b97b9647bea76f81
-      internalID: 1305503563
+      spriteID: 9fe68a3e7ca034f4e9d858076ee40cfe
+      internalID: 104574066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (black)_9
+      name: rabbit_9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 8
-        width: 80
-        height: 84
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +310,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1de27065019463d469e63816c7c32db6
-      internalID: 2055976271
+      spriteID: af3467bf292ebe8459492db4e3980a4e
+      internalID: -405573105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17243f54d246d34eba05e5bf84c75de
+      internalID: -656209934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda496412f35664980fc8065af65cdb
+      internalID: 200182963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68601c053e6c0f9489ca33f2224f18ae
+      internalID: 1170788799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04e7bd6b6c61e4f8c2a1f597e13f09
+      internalID: -1838126054
       vertices: []
       indices: 
       edges: []
@@ -327,16 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat (black)_0: 1705972866
-      cat (black)_1: -1695971486
-      cat (black)_2: -924085080
-      cat (black)_3: 1670187143
-      cat (black)_4: -665589338
-      cat (black)_5: 1149464226
-      cat (black)_6: -1990972813
-      cat (black)_7: -1427495985
-      cat (black)_8: 1305503563
-      cat (black)_9: 2055976271
+      rabbit_0: 1928379287
+      rabbit_1: -47438475
+      rabbit_10: -656209934
+      rabbit_11: 200182963
+      rabbit_12: 1170788799
+      rabbit_13: -1838126054
+      rabbit_2: -1474836110
+      rabbit_3: 440514656
+      rabbit_4: -1612805434
+      rabbit_5: 15109000
+      rabbit_6: 353127448
+      rabbit_7: -1717733325
+      rabbit_8: 104574066
+      rabbit_9: -405573105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,10 +110,10 @@ TextureImporter:
       name: rabbit (dead)_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 144
-        width: 64
-        height: 100
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 599f33e49515ac140a54e329214c8d87
-      internalID: 263016826
+      spriteID: 5df267aefcfb1cd41840b3703404bfbe
+      internalID: 1273999384
       vertices: []
       indices: 
       edges: []
@@ -131,10 +131,10 @@ TextureImporter:
       name: rabbit (dead)_1
       rect:
         serializedVersion: 2
-        x: 160
-        y: 140
-        width: 64
-        height: 100
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a80de731c2448fa428cac475ea64ea8f
-      internalID: -2017601686
+      spriteID: cdbac9dfaac92cd47a29696b6481166e
+      internalID: 1911729043
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: rabbit (dead)_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 8
-        width: 64
-        height: 100
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bb7c462917fb094f82dfafe2b9b3df9
-      internalID: -444260267
+      spriteID: 44152804dbbdcd244b20a7af9dcb95be
+      internalID: 2133718868
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: rabbit (dead)_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 8
-        width: 64
-        height: 100
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb63878195a5b640abcef023de456fc
-      internalID: -1537943338
+      spriteID: 5cdd1f76e2f78724281ec33bf34dd789
+      internalID: 1624866258
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      rabbit (dead)_0: 263016826
-      rabbit (dead)_1: -2017601686
-      rabbit (dead)_2: -444260267
-      rabbit (dead)_3: -1537943338
+      rabbit (dead)_0: 1273999384
+      rabbit (dead)_1: 1911729043
+      rabbit (dead)_2: 2133718868
+      rabbit (dead)_3: 1624866258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

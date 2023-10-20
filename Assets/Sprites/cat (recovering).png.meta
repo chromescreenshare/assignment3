@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1a7b4324204be1f4aa82765cef6147d9
+guid: a3026bd2cec9eb047a4131d495daa166
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,13 +107,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rabbit (angry)_0
+      name: cat (recovering)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1585ec83a7fd7f448d0f8834fb786d4
+      internalID: 791817617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (recovering)_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 400
-        width: 64
-        height: 100
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8f3bb6b12909584c94291c0d63c4d16
-      internalID: -1108966993
+      spriteID: a3e93ae37eef5c34b8607da1509a14c9
+      internalID: -600940969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_1
+      name: cat (recovering)_2
       rect:
         serializedVersion: 2
-        x: 160
-        y: 400
-        width: 64
-        height: 96
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfcf60cf4e2f72b43a96f2d425826314
-      internalID: 1627429982
+      spriteID: d9760d0377029834082d4430a5de8387
+      internalID: -753502748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_2
+      name: cat (recovering)_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 400
-        width: 64
-        height: 92
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +184,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aa0994a3aceea840adaf2c9c133ebba
-      internalID: 1326470195
+      spriteID: ffeaea6b6d2540f41b9107b5410735c1
+      internalID: -690761980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_3
+      name: cat (recovering)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d86f1db4ab0e4088dc3300ef9f6ec
+      internalID: 1420185469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (recovering)_5
       rect:
         serializedVersion: 2
         x: 32
-        y: 272
-        width: 64
-        height: 100
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a3d64d9caff9864ea3578faedef5c59
-      internalID: 2132893073
+      spriteID: 342fdf8af7b13934ebe648651cd91e84
+      internalID: -743535217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_4
+      name: cat (recovering)_6
       rect:
         serializedVersion: 2
-        x: 160
-        y: 268
-        width: 64
-        height: 100
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fd94fd64992803409304bcda535da8c
-      internalID: -1590829157
+      spriteID: 4f6b55ddf7c011b4cbdeb3aa034d4337
+      internalID: 1299410359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_5
+      name: cat (recovering)_7
       rect:
         serializedVersion: 2
-        x: 288
-        y: 264
-        width: 64
-        height: 100
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9cb52372f7802b47b7d01e7bfac542a
-      internalID: 1735431760
+      spriteID: f0f4bb6808c471244a31bb75775d6e38
+      internalID: -2125491184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_6
+      name: cat (recovering)_8
       rect:
         serializedVersion: 2
-        x: 28
-        y: 152
-        width: 76
-        height: 92
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 897065c0a2f1d464f82ce96b5e8fd5fb
-      internalID: -1034044220
+      spriteID: 260e2a80a4e62224a8d735292dd5c7b2
+      internalID: 140286176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_7
+      name: cat (recovering)_9
       rect:
         serializedVersion: 2
-        x: 156
-        y: 152
-        width: 76
-        height: 92
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b80120569f0e7e4db5e173d6304b9f4
-      internalID: -677575468
+      spriteID: 2067f149b08474c4992984283c6b3e71
+      internalID: 711089719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_8
+      name: cat (recovering)_10
       rect:
         serializedVersion: 2
-        x: 284
-        y: 152
-        width: 76
-        height: 96
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a6428c4cd784c34087200918ad50853
-      internalID: -888188751
+      spriteID: f001680dbf16e6b4fb8e9d4d4e84b7c0
+      internalID: 822625759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_9
+      name: cat (recovering)_11
       rect:
         serializedVersion: 2
-        x: 28
-        y: 24
-        width: 80
-        height: 96
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5da107557deb0b4db1c698d2a0e17b0
-      internalID: 1696992896
+      spriteID: 4de80618e35262a43a597cb372cb34eb
+      internalID: -701179526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rabbit (angry)_10
+      name: cat (recovering)_12
       rect:
         serializedVersion: 2
-        x: 156
-        y: 24
-        width: 80
-        height: 92
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,8 +373,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db1fdb632e594524186107f2cb1e0870
-      internalID: -820013798
+      spriteID: c9b15b036b80dea408955bfcf7b5937e
+      internalID: -1718389099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (recovering)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63efd0341fb2ce14e8dc295a994e4f9e
+      internalID: -1750348368
       vertices: []
       indices: 
       edges: []
@@ -348,17 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      rabbit (angry)_0: -1108966993
-      rabbit (angry)_1: 1627429982
-      rabbit (angry)_10: -820013798
-      rabbit (angry)_2: 1326470195
-      rabbit (angry)_3: 2132893073
-      rabbit (angry)_4: -1590829157
-      rabbit (angry)_5: 1735431760
-      rabbit (angry)_6: -1034044220
-      rabbit (angry)_7: -677575468
-      rabbit (angry)_8: -888188751
-      rabbit (angry)_9: 1696992896
+      cat (recovering)_0: 791817617
+      cat (recovering)_1: -600940969
+      cat (recovering)_10: 822625759
+      cat (recovering)_11: -701179526
+      cat (recovering)_12: -1718389099
+      cat (recovering)_13: -1750348368
+      cat (recovering)_2: -753502748
+      cat (recovering)_3: -690761980
+      cat (recovering)_4: 1420185469
+      cat (recovering)_5: -743535217
+      cat (recovering)_6: 1299410359
+      cat (recovering)_7: -2125491184
+      cat (recovering)_8: 140286176
+      cat (recovering)_9: 711089719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
