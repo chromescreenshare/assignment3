@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 43a3e006fa42d7b41885868ae1447130
+guid: a3026bd2cec9eb047a4131d495daa166
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat (pink)_0
+      name: cat (recovering)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0bbbe4b4c143d444af3d9d1ad54d28d
-      internalID: -866478856
+      spriteID: a1585ec83a7fd7f448d0f8834fb786d4
+      internalID: 791817617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_1
+      name: cat (recovering)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 949739ff20dc5074daaa6fa09a6ea2b0
-      internalID: -2040214521
+      spriteID: a3e93ae37eef5c34b8607da1509a14c9
+      internalID: -600940969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_2
+      name: cat (recovering)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb86822cae4184439b516fd5efe1cc8
-      internalID: 1019387557
+      spriteID: d9760d0377029834082d4430a5de8387
+      internalID: -753502748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_3
+      name: cat (recovering)_3
       rect:
         serializedVersion: 2
         x: 96
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 217d66740976e2c4dab80b721ec41bf7
-      internalID: -1232375950
+      spriteID: ffeaea6b6d2540f41b9107b5410735c1
+      internalID: -690761980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_4
+      name: cat (recovering)_4
       rect:
         serializedVersion: 2
         x: 0
@@ -205,14 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 410e5b3b556c25d418f905b287e2ce48
-      internalID: 265660948
+      spriteID: 886d86f1db4ab0e4088dc3300ef9f6ec
+      internalID: 1420185469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_5
+      name: cat (recovering)_5
       rect:
         serializedVersion: 2
         x: 32
@@ -226,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afe7a240af2473949b9ff8e14589a09f
-      internalID: 1891519753
+      spriteID: 342fdf8af7b13934ebe648651cd91e84
+      internalID: -743535217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_6
+      name: cat (recovering)_6
       rect:
         serializedVersion: 2
         x: 64
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72b4fdb695c71e8438808aee994a8d7b
-      internalID: 1871579132
+      spriteID: 4f6b55ddf7c011b4cbdeb3aa034d4337
+      internalID: 1299410359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_7
+      name: cat (recovering)_7
       rect:
         serializedVersion: 2
         x: 96
@@ -268,14 +268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec0b891e9c857be4f8694fa838b164b5
-      internalID: 36609807
+      spriteID: f0f4bb6808c471244a31bb75775d6e38
+      internalID: -2125491184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_8
+      name: cat (recovering)_8
       rect:
         serializedVersion: 2
         x: 0
@@ -289,14 +289,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 889cda0c22f3dde408300ad8d2e90bf6
-      internalID: 1274349815
+      spriteID: 260e2a80a4e62224a8d735292dd5c7b2
+      internalID: 140286176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_9
+      name: cat (recovering)_9
       rect:
         serializedVersion: 2
         x: 32
@@ -310,14 +310,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3589f4fe483f02e4587767476e7fad14
-      internalID: -401522548
+      spriteID: 2067f149b08474c4992984283c6b3e71
+      internalID: 711089719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_10
+      name: cat (recovering)_10
       rect:
         serializedVersion: 2
         x: 64
@@ -331,14 +331,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8797c22006d0ebf4e939608c6da28840
-      internalID: 792752152
+      spriteID: f001680dbf16e6b4fb8e9d4d4e84b7c0
+      internalID: 822625759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_11
+      name: cat (recovering)_11
       rect:
         serializedVersion: 2
         x: 96
@@ -352,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d183499b3152c8843bfe639e4c2f54ff
-      internalID: -1760925863
+      spriteID: 4de80618e35262a43a597cb372cb34eb
+      internalID: -701179526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_12
+      name: cat (recovering)_12
       rect:
         serializedVersion: 2
         x: 0
@@ -373,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59fe7d14e47b35848aff16420b1feb86
-      internalID: -1969009265
+      spriteID: c9b15b036b80dea408955bfcf7b5937e
+      internalID: -1718389099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat (pink)_13
+      name: cat (recovering)_13
       rect:
         serializedVersion: 2
         x: 32
@@ -394,8 +394,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e689e9da6a473b43a32449b1bb9d128
-      internalID: 228562451
+      spriteID: 63efd0341fb2ce14e8dc295a994e4f9e
+      internalID: -1750348368
       vertices: []
       indices: 
       edges: []
@@ -411,20 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat (pink)_0: -866478856
-      cat (pink)_1: -2040214521
-      cat (pink)_10: 792752152
-      cat (pink)_11: -1760925863
-      cat (pink)_12: -1969009265
-      cat (pink)_13: 228562451
-      cat (pink)_2: 1019387557
-      cat (pink)_3: -1232375950
-      cat (pink)_4: 265660948
-      cat (pink)_5: 1891519753
-      cat (pink)_6: 1871579132
-      cat (pink)_7: 36609807
-      cat (pink)_8: 1274349815
-      cat (pink)_9: -401522548
+      cat (recovering)_0: 791817617
+      cat (recovering)_1: -600940969
+      cat (recovering)_10: 822625759
+      cat (recovering)_11: -701179526
+      cat (recovering)_12: -1718389099
+      cat (recovering)_13: -1750348368
+      cat (recovering)_2: -753502748
+      cat (recovering)_3: -690761980
+      cat (recovering)_4: 1420185469
+      cat (recovering)_5: -743535217
+      cat (recovering)_6: 1299410359
+      cat (recovering)_7: -2125491184
+      cat (recovering)_8: 140286176
+      cat (recovering)_9: 711089719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
