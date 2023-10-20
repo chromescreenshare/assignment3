@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7e526b77f2c44d840aa15554cbdcf8bd
+guid: 71bd1f01c5afe0441aab83c6dfa5fabe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,10 +110,10 @@ TextureImporter:
       name: cat (orange)_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 408
-        width: 64
-        height: 96
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14a7e6438d7157147b2da9807de69d13
-      internalID: 1528742713
+      spriteID: f012e41ceac326e42bded90e7d5ce31b
+      internalID: -1292797784
       vertices: []
       indices: 
       edges: []
@@ -131,10 +131,10 @@ TextureImporter:
       name: cat (orange)_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 404
-        width: 64
-        height: 88
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12a6cca58d5e3db4e865b4baa94dc6d4
-      internalID: 1348946281
+      spriteID: 643ae6660b5f25741864ae68414a18f2
+      internalID: -417288465
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: cat (orange)_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 404
-        width: 72
-        height: 88
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b0409f52e8b3840a98a482214e4665
-      internalID: -339620534
+      spriteID: 73e12ea70c1db304b9172959f0b195e5
+      internalID: -1978254325
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: cat (orange)_3
       rect:
         serializedVersion: 2
-        x: 8
-        y: 280
-        width: 64
-        height: 96
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e6ede4e8ca2122468a70ebc452a41b2
-      internalID: -1968919769
+      spriteID: 0ff8700798e9d8c4cb5ebfc7d4096fff
+      internalID: -6817720
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       name: cat (orange)_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 276
-        width: 64
-        height: 96
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f57fe5329d2be7e4b96421f17c6b8472
-      internalID: 724141954
+      spriteID: bd5f51df7efece247bd54fbf63339549
+      internalID: -117833643
       vertices: []
       indices: 
       edges: []
@@ -215,10 +215,10 @@ TextureImporter:
       name: cat (orange)_5
       rect:
         serializedVersion: 2
-        x: 264
-        y: 272
-        width: 64
-        height: 96
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1894dbc597399343b6089ac20da8e7e
-      internalID: 2099352577
+      spriteID: 8f502184b9a6fe24d94988667a3d0382
+      internalID: 689571669
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
       name: cat (orange)_6
       rect:
         serializedVersion: 2
-        x: 12
-        y: 136
-        width: 76
-        height: 84
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226fd78076abcd34e94ec037c80a4079
-      internalID: -1724485897
+      spriteID: 620fee4c4f10ad44484a2cd6c7956ebf
+      internalID: 672971682
       vertices: []
       indices: 
       edges: []
@@ -257,10 +257,10 @@ TextureImporter:
       name: cat (orange)_7
       rect:
         serializedVersion: 2
-        x: 140
-        y: 136
-        width: 76
-        height: 88
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cafd9c6dd2dbd68458118b3c4b30f9e3
-      internalID: 1611704012
+      spriteID: 20b74b70cded8364cb35078c443fb52c
+      internalID: -496467122
       vertices: []
       indices: 
       edges: []
@@ -278,10 +278,10 @@ TextureImporter:
       name: cat (orange)_8
       rect:
         serializedVersion: 2
-        x: 264
-        y: 136
-        width: 84
-        height: 88
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 037cb969077a83d4cbf441a7e07df088
-      internalID: -2061409406
+      spriteID: 046ab0b3b8b80e04395757cbe255a3a2
+      internalID: 737027714
       vertices: []
       indices: 
       edges: []
@@ -299,10 +299,10 @@ TextureImporter:
       name: cat (orange)_9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 8
-        width: 80
-        height: 84
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +310,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4b20769553acdf4bb514c566a43c354
-      internalID: -1491880205
+      spriteID: 21dae8ee85a50b145a43b51d67e92c2b
+      internalID: 914643733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (orange)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057ffe6a8f7d0d4bb764dfca6878c15
+      internalID: -1690125352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (orange)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16258b31aea02948845e394b8bbbf9f
+      internalID: 1979242844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (orange)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83800de2bfd391c448458271ca7080e8
+      internalID: 1709909195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (orange)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e559127fedeef84e901d93777e12ac9
+      internalID: -387867570
       vertices: []
       indices: 
       edges: []
@@ -327,16 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat (orange)_0: 1528742713
-      cat (orange)_1: 1348946281
-      cat (orange)_2: -339620534
-      cat (orange)_3: -1968919769
-      cat (orange)_4: 724141954
-      cat (orange)_5: 2099352577
-      cat (orange)_6: -1724485897
-      cat (orange)_7: 1611704012
-      cat (orange)_8: -2061409406
-      cat (orange)_9: -1491880205
+      cat (orange)_0: -1292797784
+      cat (orange)_1: -417288465
+      cat (orange)_10: -1690125352
+      cat (orange)_11: 1979242844
+      cat (orange)_12: 1709909195
+      cat (orange)_13: -387867570
+      cat (orange)_2: -1978254325
+      cat (orange)_3: -6817720
+      cat (orange)_4: -117833643
+      cat (orange)_5: 689571669
+      cat (orange)_6: 672971682
+      cat (orange)_7: -496467122
+      cat (orange)_8: 737027714
+      cat (orange)_9: 914643733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

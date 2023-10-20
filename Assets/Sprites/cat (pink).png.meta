@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,10 +110,10 @@ TextureImporter:
       name: cat (pink)_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 408
-        width: 64
-        height: 96
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e153d83a51696f841a0ba79628df0e8e
-      internalID: 972910812
+      spriteID: a0bbbe4b4c143d444af3d9d1ad54d28d
+      internalID: -866478856
       vertices: []
       indices: 
       edges: []
@@ -131,10 +131,10 @@ TextureImporter:
       name: cat (pink)_1
       rect:
         serializedVersion: 2
-        x: 136
-        y: 404
-        width: 64
-        height: 88
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0dda2da2f2c4c84d884e221758ac466
-      internalID: -1427721778
+      spriteID: 949739ff20dc5074daaa6fa09a6ea2b0
+      internalID: -2040214521
       vertices: []
       indices: 
       edges: []
@@ -152,10 +152,10 @@ TextureImporter:
       name: cat (pink)_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 404
-        width: 72
-        height: 88
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82380f1d75a1ae246a13df2a27ff5418
-      internalID: 196458883
+      spriteID: ffb86822cae4184439b516fd5efe1cc8
+      internalID: 1019387557
       vertices: []
       indices: 
       edges: []
@@ -173,10 +173,10 @@ TextureImporter:
       name: cat (pink)_3
       rect:
         serializedVersion: 2
-        x: 8
-        y: 280
-        width: 64
-        height: 96
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 618ac0db413babc478951a355aa89363
-      internalID: 1181104740
+      spriteID: 217d66740976e2c4dab80b721ec41bf7
+      internalID: -1232375950
       vertices: []
       indices: 
       edges: []
@@ -194,10 +194,10 @@ TextureImporter:
       name: cat (pink)_4
       rect:
         serializedVersion: 2
-        x: 136
-        y: 276
-        width: 64
-        height: 96
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9879a96430be2914f9efd18bb0cc82df
-      internalID: -308623770
+      spriteID: 410e5b3b556c25d418f905b287e2ce48
+      internalID: 265660948
       vertices: []
       indices: 
       edges: []
@@ -215,10 +215,10 @@ TextureImporter:
       name: cat (pink)_5
       rect:
         serializedVersion: 2
-        x: 264
-        y: 272
-        width: 64
-        height: 96
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77c388a64d8556048ba6b9ab1e83db5a
-      internalID: 1990968718
+      spriteID: afe7a240af2473949b9ff8e14589a09f
+      internalID: 1891519753
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
       name: cat (pink)_6
       rect:
         serializedVersion: 2
-        x: 12
-        y: 136
-        width: 76
-        height: 84
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6490d83ca1bf79c49a15b848cb45e392
-      internalID: -207181963
+      spriteID: 72b4fdb695c71e8438808aee994a8d7b
+      internalID: 1871579132
       vertices: []
       indices: 
       edges: []
@@ -257,10 +257,10 @@ TextureImporter:
       name: cat (pink)_7
       rect:
         serializedVersion: 2
-        x: 140
-        y: 136
-        width: 76
-        height: 88
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd35a864b01341a43a5a008d4e601140
-      internalID: 1394464251
+      spriteID: ec0b891e9c857be4f8694fa838b164b5
+      internalID: 36609807
       vertices: []
       indices: 
       edges: []
@@ -278,10 +278,10 @@ TextureImporter:
       name: cat (pink)_8
       rect:
         serializedVersion: 2
-        x: 264
-        y: 136
-        width: 84
-        height: 88
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab045fb522d73d34ab02a6897353644c
-      internalID: -265818731
+      spriteID: 889cda0c22f3dde408300ad8d2e90bf6
+      internalID: 1274349815
       vertices: []
       indices: 
       edges: []
@@ -299,10 +299,10 @@ TextureImporter:
       name: cat (pink)_9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 8
-        width: 80
-        height: 84
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,8 +310,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fa42c3f360436e47925344e47855e92
-      internalID: -846088708
+      spriteID: 3589f4fe483f02e4587767476e7fad14
+      internalID: -401522548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (pink)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797c22006d0ebf4e939608c6da28840
+      internalID: 792752152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (pink)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183499b3152c8843bfe639e4c2f54ff
+      internalID: -1760925863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (pink)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe7d14e47b35848aff16420b1feb86
+      internalID: -1969009265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat (pink)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e689e9da6a473b43a32449b1bb9d128
+      internalID: 228562451
       vertices: []
       indices: 
       edges: []
@@ -327,16 +411,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat (pink)_0: 972910812
-      cat (pink)_1: -1427721778
-      cat (pink)_2: 196458883
-      cat (pink)_3: 1181104740
-      cat (pink)_4: -308623770
-      cat (pink)_5: 1990968718
-      cat (pink)_6: -207181963
-      cat (pink)_7: 1394464251
-      cat (pink)_8: -265818731
-      cat (pink)_9: -846088708
+      cat (pink)_0: -866478856
+      cat (pink)_1: -2040214521
+      cat (pink)_10: 792752152
+      cat (pink)_11: -1760925863
+      cat (pink)_12: -1969009265
+      cat (pink)_13: 228562451
+      cat (pink)_2: 1019387557
+      cat (pink)_3: -1232375950
+      cat (pink)_4: 265660948
+      cat (pink)_5: 1891519753
+      cat (pink)_6: 1871579132
+      cat (pink)_7: 36609807
+      cat (pink)_8: 1274349815
+      cat (pink)_9: -401522548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
