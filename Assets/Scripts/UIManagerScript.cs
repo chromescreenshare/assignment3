@@ -14,12 +14,18 @@ public class UIManagerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void LoadLevelOne()
     {
         DontDestroyOnLoad(gameObject);
         SceneManager.LoadSceneAsync(1);
+    }
+
+    public void ExitGame()
+    {
+        DontDestroyOnLoad(gameObject);
+        SceneManager.LoadSceneAsync(0);
     }
 }
