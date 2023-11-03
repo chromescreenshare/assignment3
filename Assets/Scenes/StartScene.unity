@@ -207,8 +207,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1251307806}
-        m_TargetAssemblyTypeName: UIManagerScript, Assembly-CSharp
+      - m_Target: {fileID: -3648747164461775857, guid: f1bddee55dfb4de4f9ac3e6995e7ecea, type: 3}
+        m_TargetAssemblyTypeName: uiManager, Assembly-CSharp
         m_MethodName: LoadLevelOne
         m_Mode: 1
         m_Arguments:
@@ -3594,17 +3594,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1243030338}
   m_CullTransparentMesh: 1
---- !u!114 &1251307806 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5050172318297331418, guid: f1bddee55dfb4de4f9ac3e6995e7ecea, type: 3}
-  m_PrefabInstance: {fileID: 5050172317046073284}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 244510356ec8a3146ab95e4266903ed2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1308570910
 GameObject:
   m_ObjectHideFlags: 0
